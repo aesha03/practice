@@ -1,2 +1,2 @@
 # practice
-only for learning
+only for learning.
